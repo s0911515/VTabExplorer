@@ -181,7 +181,7 @@ VTabExplorer.exe "D:\work"
 
 | キー | 動作 |
 |---|---|
-| Ctrl+T / Ctrl+W | タブを開く（PC から始まる）／閉じる |
+| Ctrl+T / Ctrl+W | タブを複製（今のフォルダを新しいタブで開く）／閉じる |
 | Ctrl+Tab | 次のタブへ |
 | Alt+← / Alt+→ / Alt+↑、BackSpace | 戻る／進む／上のフォルダへ |
 | Ctrl+L | アドレスバーへ移動 |
